@@ -38,6 +38,7 @@ Estructura del Código
     0.	Salir: Termina la ejecución del programa.
 Uso del Programa
   Ejecutar el programa mostrará el siguiente menú interactivo:
+
 --- GESTOR DE TAREAS ---
 1. Agregar tarea
 2. Listar tareas
